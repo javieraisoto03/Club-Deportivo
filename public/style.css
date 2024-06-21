@@ -1,0 +1,12 @@
+body {
+    background-image: url('deporte.gif');
+    background-size: 80%; /* Reduce the background size to 80% */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; /* Center the background */
+  }
+  
+  .container {
+    margin-top: 2cm;
+  }
+  

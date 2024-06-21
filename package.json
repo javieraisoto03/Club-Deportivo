@@ -1,0 +1,15 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Sistema CRUD para el Club Deportivo Discipline Spa",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
